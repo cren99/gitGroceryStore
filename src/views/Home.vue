@@ -8,6 +8,9 @@
       </div>
     </div>
     <ProductList :products="products" />
+    <p>
+      https://github.com/BYU-CS-260-Spring-2021/lab-3b-grocery-store-cren99/
+    </p>
   </div>
 </template>
 
